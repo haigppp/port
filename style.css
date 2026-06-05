@@ -75,3 +75,25 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+body {
+  background-color: #f4f6f9;
+  color: #333;
+  font-family: sans-serif;
+  padding: 40px;
+}
+
+h1 {
+  color: #4f46e5;
+}
+
+button {
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
